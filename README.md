@@ -8,37 +8,37 @@ Auth
 Users
 ----------------------
 
-/users                        POST
-/users                        GET
-/users/:id                    GET
-/users/:id                    PATCH
+/users                        POST\
+/users                        GET\
+/users/:id                    GET\
+/users/:id                    PATCH\
 users/:id                     DELETE
 
 Providers
 ----------------------
 
-/providers,                   POST
-/providers,                   GET
-/providers/:id                GET
-/providers/:id                PATCH
+/providers,                   POST\
+/providers,                   GET\
+/providers/:id                GET\
+/providers/:id                PATCH\
 /providers/:id                DELETE
 
 Products
 ----------------------
 
-/products                     POST
-/products                     GET
-/products/:id                 GET
-/products/:id                 PATCH
+/products                     POST\
+/products                     GET\
+/products/:id                 GET\
+/products/:id                 PATCH\
 /products/:id                 DELETE
 
 Providers Products
 -----------------------
 
-/providers-products           POST
-/providers-products           GET
-/providers-products/:id       GET
-/providers-products/:id       PATCH
+/providers-products           POST\
+/providers-products           GET\
+/providers-products/:id       GET\
+/providers-products/:id       PATCH\
 /providers-products/:id       DELETE
 
 
